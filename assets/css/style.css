@@ -185,12 +185,13 @@ p {
 @media only screen and (max-width: 768px) {
     body {
         background-color: rgb(182, 27, 156);
+        width: 80%;
     }
 }
 @media only screen and (max-width: 640px) {
     body {
         background-color: rgb(97, 199, 39);
-        width: 80%;
+        width: 60%;
     
     }
 }
